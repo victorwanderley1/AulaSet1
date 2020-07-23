@@ -27,7 +27,7 @@ public class AulaTreeSet {
         System.out.println(treeCapitais.first());
         System.out.println(treeCapitais.last());
         
-                
+    
         
     }
 }
